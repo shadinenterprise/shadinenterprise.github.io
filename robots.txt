@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://shadinenterprise.github.io/sitemap.xml
